@@ -137,12 +137,12 @@ static const uint16_t SPECVALUE_BG_MGDL = 20;
 static const uint16_t SHOWLOW_BG_MGDL = 40;
 static const uint16_t HYPOLOW_BG_MGDL = 55;
 static const uint16_t BIGLOW_BG_MGDL = 60;
-static const uint16_t MIDLOW_BG_MGDL = 70;
+static const uint16_t MIDLOW_BG_MGDL = 80;
 uint16_t LOW_BG_MGDL = 80;
 
-uint16_t HIGH_BG_MGDL = 180;
-uint16_t MIDHIGH_BG_MGDL = 240;
-uint16_t BIGHIGH_BG_MGDL = 300;
+uint16_t HIGH_BG_MGDL = 300;
+uint16_t MIDHIGH_BG_MGDL = 350;
+uint16_t BIGHIGH_BG_MGDL = 375;
 static const uint16_t SHOWHIGH_BG_MGDL = 400;
 
 // BG Ranges, MMOL
@@ -154,12 +154,12 @@ static const uint16_t SPECVALUE_BG_MMOL = 11;
 static const uint16_t SHOWLOW_BG_MMOL = 23;
 static const uint16_t HYPOLOW_BG_MMOL = 30;
 static const uint16_t BIGLOW_BG_MMOL = 33;
-static const uint16_t MIDLOW_BG_MMOL = 39;
+static const uint16_t MIDLOW_BG_MMOL = 44;
 uint16_t LOW_BG_MMOL = 44;
 
-uint16_t HIGH_BG_MMOL = 100;
-uint16_t MIDHIGH_BG_MMOL = 133;
-uint16_t BIGHIGH_BG_MMOL = 166;
+uint16_t HIGH_BG_MMOL = 166;
+uint16_t MIDHIGH_BG_MMOL = 194;
+uint16_t BIGHIGH_BG_MMOL = 208;
 static const uint16_t SHOWHIGH_BG_MMOL = 222;
 
 // BG Snooze Times, in Minutes; controls when vibrate again
